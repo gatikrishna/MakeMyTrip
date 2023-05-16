@@ -25,7 +25,7 @@ public class PluginUtil {
             final String pack = p.getName();
             if (pack.contains("com.demo.mypack")) {
                 final String tentative = pack + "." + className;
-                LOGGER.info("Tentative class: "+tentative);
+//                LOGGER.info("Tentative class: "+tentative);
                 try {
                     return Class.forName(tentative);
                 } catch (final ClassNotFoundException ex) {

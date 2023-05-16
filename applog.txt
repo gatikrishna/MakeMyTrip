@@ -1,0 +1,4 @@
+INFO    2023-05-16 16:44:20,312 [main] com.demo.mypack.DriverManager  - Instantiating Driver Manager
+INFO    2023-05-16 16:44:29,355 [main] com.demo.mypack.stepDefinition.CommonStepDef  - Feeding data to page
+INFO    2023-05-16 16:44:29,526 [main] com.demo.mypack.util.LocatorUtil  - Opening page Flights 
+INFO    2023-05-16 16:44:29,526 [main] com.demo.mypack.util.LocatorUtil  - fill details

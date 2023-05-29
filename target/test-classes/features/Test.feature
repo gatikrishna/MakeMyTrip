@@ -1,4 +1,4 @@
-@gati
+
 
 Feature: Test make mytrip
 
@@ -8,6 +8,7 @@ Feature: Test make mytrip
       | From   | Delhi     |
       | To     | Bangalore |
       | Search |           |
+
 #    When user performs below action
 #      | search |
 
